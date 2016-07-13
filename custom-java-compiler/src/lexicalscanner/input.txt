@@ -1,0 +1,28 @@
+package firstDemo;//hello every on
+
+import java.util.logging.Logger;
+
+public class MyDemo {
+	public static void main(String[] args) {
+		A a1 = new A();
+		A a2 = new A();
+		a1.name = 3;
+		try {
+			a2 = (A)a1.clone();
+		} catch (CloneNotSupportedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		a1.name = 4;
+		System.out.println("a1.name"+a1);
+		System.out.println("a2.name"+a2);
+	}
+}
+class A implements Cloneable{
+	public int name = 1;
+	@Override
+	public Object clone() throws CloneNotSupportedException {
+		// TODO Auto-generated method stub
+		return super.clone();
+	}
+}

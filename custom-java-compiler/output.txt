@@ -1,0 +1,163 @@
+<tokens>
+  <token>
+    <number> 1 </number>
+    <value> while </value>
+    <type> 0x103 </type>
+    <line> 1 </line>
+  </token>
+  <token>
+    <number> 2 </number>
+    <value> ( </value>
+    <type> 0x11d </type>
+    <line> 1 </line>
+  </token>
+  <token>
+    <number> 3 </number>
+    <value> a </value>
+    <type> 0x104 </type>
+    <line> 1 </line>
+  </token>
+  <token>
+    <number> 4 </number>
+    <value> > </value>
+    <type> 0x118 </type>
+    <line> 1 </line>
+  </token>
+  <token>
+    <number> 5 </number>
+    <value> 30 </value>
+    <type> 0x107 </type>
+    <line> 1 </line>
+  </token>
+  <token>
+    <number> 6 </number>
+    <value> ) </value>
+    <type> 0x11d </type>
+    <line> 1 </line>
+  </token>
+  <token>
+    <number> 7 </number>
+    <value> { </value>
+    <type> 0x121 </type>
+    <line> 1 </line>
+  </token>
+-------Line:1 Words Count: 7
+  <token>
+    <number> 8 </number>
+    <value> c </value>
+    <type> 0x104 </type>
+    <line> 2 </line>
+  </token>
+  <token>
+    <number> 9 </number>
+    <value> = </value>
+    <type> 0x110 </type>
+    <line> 2 </line>
+  </token>
+  <token>
+    <number> 10 </number>
+    <value> 200 </value>
+    <type> 0x107 </type>
+    <line> 2 </line>
+  </token>
+  <token>
+    <number> 11 </number>
+    <value> ; </value>
+    <type> 0x122 </type>
+    <line> 2 </line>
+  </token>
+-------Line:2 Words Count: 4
+  <token>
+    <number> 12 </number>
+    <value> a </value>
+    <type> 0x104 </type>
+    <line> 3 </line>
+  </token>
+  <token>
+    <number> 13 </number>
+    <value> = </value>
+    <type> 0x110 </type>
+    <line> 3 </line>
+  </token>
+  <token>
+    <number> 14 </number>
+    <value> c </value>
+    <type> 0x104 </type>
+    <line> 3 </line>
+  </token>
+  <token>
+    <number> 15 </number>
+    <value> * </value>
+    <type> 0x11b </type>
+    <line> 3 </line>
+  </token>
+  <token>
+    <number> 16 </number>
+    <value> b </value>
+    <type> 0x104 </type>
+    <line> 3 </line>
+  </token>
+  <token>
+    <number> 17 </number>
+    <value> + </value>
+    <type> 0x11a </type>
+    <line> 3 </line>
+  </token>
+  <token>
+    <number> 18 </number>
+    <value> 10 </value>
+    <type> 0x107 </type>
+    <line> 3 </line>
+  </token>
+  <token>
+    <number> 19 </number>
+    <value> ; </value>
+    <type> 0x122 </type>
+    <line> 3 </line>
+  </token>
+-------Line:3 Words Count: 8
+  <token>
+    <number> 20 </number>
+    <value> m </value>
+    <type> 0x104 </type>
+    <line> 4 </line>
+  </token>
+  <token>
+    <number> 21 </number>
+    <value> = </value>
+    <type> 0x110 </type>
+    <line> 4 </line>
+  </token>
+  <token>
+    <number> 22 </number>
+    <value> a </value>
+    <type> 0x104 </type>
+    <line> 4 </line>
+  </token>
+  <token>
+    <number> 23 </number>
+    <value> + </value>
+    <type> 0x11a </type>
+    <line> 4 </line>
+  </token>
+  <token>
+    <number> 24 </number>
+    <value> 1 </value>
+    <type> 0x107 </type>
+    <line> 4 </line>
+  </token>
+  <token>
+    <number> 25 </number>
+    <value> ; </value>
+    <type> 0x122 </type>
+    <line> 4 </line>
+  </token>
+-------Line:4 Words Count: 6
+  <token>
+    <number> 26 </number>
+    <value> } </value>
+    <type> 0x121 </type>
+    <line> 5 </line>
+  </token>
+-------Line:5 Words Count: 1
+</tokens>
